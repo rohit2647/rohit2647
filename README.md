@@ -56,45 +56,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🚖 SAU-Vahan — Transportation Management System
-
-A transportation management system designed for e-rickshaw services.
-
-**Tech Stack:**
-- HTML5, CSS3, JavaScript
-- Node.js
-- Socket.io
-- MySQL
-
----
-
-### 🎓 Early Prediction of Student Performance
-
-A machine learning project focused on predicting student examination performance using academic and personal learning-related features.
-
-**Concepts:**
-- Exploratory Data Analysis
-- Feature Engineering
-- Machine Learning
-- Model Evaluation
-- Data Visualization
-
----
-
-### 🧠 Uncertainty Estimation in Deep Neural Networks
-
-Research-oriented work focused on uncertainty estimation in deep learning models for real-world classification tasks.
-
-**Areas of Interest:**
-- Deep Learning
-- Model Uncertainty
-- Reliable AI
-- CIFAR-10 & SVHN
-
----
-
 ## 📚 Currently Learning
 
 ```text
