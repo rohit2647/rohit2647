@@ -1,169 +1,106 @@
-# 👋 Hi, I'm Rohit Kumar!
+# Hi, I'm Rohit Kumar 👋
 
-### 💻 Computer Science Engineering Student | Full-Stack Developer | AI/ML Enthusiast
+### Computer Science Student | Software Developer | AI/ML Enthusiast
 
-🎓 Integrated B.Tech & M.Tech in Computer Science
-🏛️ South Asian University, New Delhi (2024–2029)
+I am a Computer Science student pursuing an Integrated B.Tech & M.Tech
+at South Asian University, New Delhi.
 
-I'm a Computer Science student passionate about building real-world
-projects, solving Data Structures & Algorithms problems, and exploring
-Artificial Intelligence and Machine Learning.
+I am interested in software development, problem-solving, and
+Artificial Intelligence. I enjoy building practical projects,
+learning new technologies, and strengthening my computer science
+fundamentals.
 
-🚀 Currently working on:
-- Strengthening Data Structures & Algorithms using Java
-- Full-Stack Web Development
-- Machine Learning & Deep Learning
-- Building practical software projects
-
-🎯 Goal: Become a skilled Software Engineer and crack top tech
-companies through strong problem-solving and development skills.
+Currently, I am focused on improving my Data Structures & Algorithms
+skills, developing full-stack applications, and exploring Machine
+Learning and Deep Learning.
 
 ---
 
-## 🌐 Connect With Me
+## 🎓 Education
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-kumar-70a75b294)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohit.saw.2647@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rohit2647)
+**South Asian University, New Delhi**
+Integrated B.Tech & M.Tech in Computer Science
+2024 – 2029
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Skills
 
-### 👨‍💻 Programming Languages
+**Programming Languages**
+- Java, C, Python, JavaScript
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Web Development**
+- HTML, CSS, Node.js, Socket.io
 
-### 🌐 Web Development
+**Databases**
+- MySQL, MongoDB
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+**Machine Learning & Data Science**
+- PyTorch, TensorFlow, Keras
+- NumPy, Pandas, Scikit-learn
+- Matplotlib
 
-### 🤖 AI & Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🛠️ Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+**Tools & Technologies**
+- Git, GitHub, GitHub Actions
+- Figma, Canva, LaTeX
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚗 SAU-Vahan — Transportation Management System
+### SAU-Vahan | Transportation Management System
 
-A transportation management system designed to improve
-e-rickshaw transportation and user connectivity.
+A transportation management system developed to support
+e-rickshaw transportation and improve user connectivity.
 
-**Tech Stack:**
-- HTML5, CSS3, JavaScript
-- Node.js
-- Socket.io
-- MySQL
+**Technologies:** HTML, CSS, JavaScript, Node.js, Socket.io, MySQL
 
 ---
 
-### 🎓 Early Prediction of Student Performance
+### Early Prediction of Student Performance
 
-A Machine Learning project focused on predicting student
-exam performance using academic and personal factors.
+A machine learning project focused on predicting student exam
+performance using academic and personal factors.
 
-**Tech Stack:**
-- Python
-- Pandas & NumPy
-- Scikit-learn
-- Machine Learning Algorithms
-- Data Visualization
+**Technologies:** Python, Pandas, NumPy, Scikit-learn
 
 ---
 
-### 🧠 Uncertainty Estimation in Deep Neural Networks
+### Uncertainty Estimation in Deep Neural Networks
 
-Research-oriented project focused on uncertainty estimation
+A research-oriented project exploring uncertainty estimation
 in deep neural networks for real-world classification tasks.
 
-**Focus Areas:**
-- Deep Learning
-- PyTorch
-- CIFAR-10
-- SVHN (Out-of-Distribution Evaluation)
-- Model Uncertainty
+**Technologies:** PyTorch, Deep Learning, CIFAR-10, SVHN
 
 ---
 
-## 🧩 Problem Solving
+## 📚 Current Focus
 
-- 📌 Data Structures & Algorithms
-- 📌 Java Programming
-- 📌 Object-Oriented Programming
-- 📌 Database Management Systems
-- 📌 Operating Systems
-- 📌 Computer Networks
-
-🎯 Preparing for software engineering interviews
-with a focus on problem-solving and core CS fundamentals.
+- Data Structures & Algorithms using Java
+- Full-Stack Web Development
+- Machine Learning & Deep Learning
+- Software Engineering and Computer Science Fundamentals
+- Networking and Ethical Hacking
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Statistics
 
-- ☕ Advanced DSA using Java
-- 🌐 Full-Stack Web Development
-- 🤖 Machine Learning & Deep Learning
-- 🔐 Ethical Hacking & Networking
-- 🏗️ Software Engineering Fundamentals
+![](https://github-readme-stats.shion.dev/api?username=rohit2647&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 
----
+![](https://streak-stats.demolab.com/?user=rohit2647&theme=dark&hide_border=true)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=rohit2647&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=rohit2647&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohit2647&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohit2647&theme=dark&hide_border=true&layout=compact)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🤝 Connect With Me
 
-![](https://github-profile-trophy.vercel.app/?username=rohit2647&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-kumar-70a75b294)
 
----
-
-## ✍️ Developer Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rohit.saw.2647@gmail.com)
 
 ---
 
-## 🤝 Let's Connect!
-
-I'm always interested in learning, collaborating on projects,
-and connecting with fellow developers.
-
-⭐ Feel free to explore my repositories and follow my journey!
-
----
-
-[![](https://komarev.com/ghpvc/?username=rohit2647&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM -->
+⭐ Feel free to explore my repositories and connect with me.
