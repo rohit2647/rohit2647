@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Rohit Kumar
 
-### 💻 Computer Science Student | AI/ML Enthusiast | Software Engineer in Progress
+### 💻 Computer Science Student | DATASCIENCE/AI Enthusiast | Software Engineer in Progress
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI%2FML+%26+Software+Engineering;Building+Projects+%26+Learning+Every+Day;Future+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;DATASCIENCE%2FAI+%26+Software+Engineering;Building+Projects+%26+Learning+Every+Day;Future+Software+Engineer" alt="Typing SVG" />
 </p>
 
 ---
